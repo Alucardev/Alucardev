@@ -29,7 +29,7 @@ Technologies and Languages </h2>
 
 
   <h2>Connect with me!</h2>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-aiello-618a52212/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agustin-aiello-618a52212/)  
 <br> <br>
 </div>
 
